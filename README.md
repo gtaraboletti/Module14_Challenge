@@ -22,17 +22,23 @@ UNCC FinTech Boot Camp
 
   ![baseline](https://user-images.githubusercontent.com/89159824/144774830-e180a89b-9a7a-4afa-9cd1-96e1b6221707.png)
 
+![baseline svm](https://user-images.githubusercontent.com/89159824/144774903-589b3f18-23b3-44c9-a2fb-bdc5ce18efbf.png)
 
 ## SVM DateOffset 4 months ##
 
-  
+  ![4 months](https://user-images.githubusercontent.com/89159824/144774911-99097418-f534-460a-8162-531efceb53cd.png)
+![4 months svm](https://user-images.githubusercontent.com/89159824/144774914-08804727-6cd9-44e5-9329-ddc8ea2e6300.png)
 
 ## SVM DateOffset 6 months ## 
-  
+
+  ![6 months](https://user-images.githubusercontent.com/89159824/144774923-be3a62fa-7a6d-4789-b997-f988cf9865ba.png)
+![6 month svm](https://user-images.githubusercontent.com/89159824/144774932-769fa06d-8841-4087-bb48-6bc1de28aac8.png)
 
 ## Linear Regression Model ## 
 
-  
+  ![lr model](https://user-images.githubusercontent.com/89159824/144774940-dda1cee7-a0a8-46d9-b0f2-c40d9cbf7f44.png)
+![lr graph](https://user-images.githubusercontent.com/89159824/144774947-969c82a6-f2c7-4ad1-a8b8-0e1721d6e3af.png)
+
 
 ## Conclusions ##
 
